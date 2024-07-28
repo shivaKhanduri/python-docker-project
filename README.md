@@ -19,6 +19,14 @@ cd task-infrastructure-engineer
 
 Navigate to the task subfolder within TASK-INFRASTRUCTURE-ENGINEER:
 
+cd TASK-INFRASTRUCTURE-ENGINEER/task
+
+run docker commands
+
+    docker-compose build
+   
+    docker-compose up
+
 ## Files and Structure
 
 1. analysis.py: The main Flask application file.
