@@ -51,7 +51,7 @@ def home():
     </head>
     <body>
         <div class="container mt-5">
-            <h1 class="mb-4">Welcome to the Analysis API</h1>
+            <h1 class="mb-4">Welcome to the Analysis</h1>
             <h2>All Orders</h2>
             {{ table | safe }}
             <h3 class="mt-4">Analysis Links</h3>
