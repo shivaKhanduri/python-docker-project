@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 class TestAnalysis(unittest.TestCase):
 
     def setUp(self):
-        # Set up a test dataframe with real-life products
+        
         self.data = pd.DataFrame({
             'order_id': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
             'customer_id': [1001, 1002, 1001, 1003, 1002, 1004, 1005, 1006, 1001, 1002, 1007, 1008, 1003, 1009, 1010, 1004, 1005, 1006, 1007, 1008],
