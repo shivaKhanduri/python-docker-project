@@ -61,3 +61,18 @@ Incase the port is busy on a different machine and an error is presented the res
 <img width="1440" alt="Screenshot 2024-07-28 at 9 53 41 AM" src="https://github.com/user-attachments/assets/94a725b8-9574-4f9e-b1f1-fd369da993bc">
 
 
+
+# Output Screenshot:
+
+
+
+
+<img width="1440" alt="Screenshot 2024-07-28 at 11 06 22 AM" src="https://github.com/user-attachments/assets/79187e56-22bc-4e6d-b7ca-cb55b0da797f">
+
+
+
+<img width="1440" alt="Screenshot 2024-07-28 at 11 06 37 AM" src="https://github.com/user-attachments/assets/5a23fbe7-840b-4ae6-a3f5-929abb92a4b0">
+
+
+<img width="1378" alt="Screenshot 2024-07-28 at 11 07 16 AM" src="https://github.com/user-attachments/assets/4d2e46b6-7c5a-4102-9bd9-ee4494c10968">
+
