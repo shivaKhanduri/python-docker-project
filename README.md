@@ -14,7 +14,10 @@ Additionally, the project includes tests for the code and is Dockerized to run t
 ### Clone the Repository
 
 git clone https://github.com/your-username/task-infrastructure-engineer.git
-cd task-infrastructure-engineer 
+cd task-infrastructure-engineer
+
+
+Navigate to the task subfolder within TASK-INFRASTRUCTURE-ENGINEER:
 
 ## Files and Structure
 
