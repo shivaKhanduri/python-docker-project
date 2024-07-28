@@ -13,13 +13,9 @@ Additionally, the project includes tests for the code and is Dockerized to run t
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/task-infrastructure-engineer.git
-cd task-infrastructure-engineer
+git clone https://github.com/shivaKhanduri/task
+cd task
 
-
-Navigate to the task subfolder within TASK-INFRASTRUCTURE-ENGINEER:
-
-cd TASK-INFRASTRUCTURE-ENGINEER/task
 
 run docker commands
 
@@ -35,8 +31,6 @@ run docker commands
 4. Dockerfile.test: Dockerfile to build the test container.
 5. docker-compose.yml: Docker Compose configuration file.
 6. test_analysis.py: Python script containing unit tests for the analysis functions.
-
-
 
 
 ## Running the Application
