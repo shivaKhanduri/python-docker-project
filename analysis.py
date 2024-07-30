@@ -253,4 +253,4 @@ def get_test_results():
     ''', test_output=test_output, test_success=test_success)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5001)
+    app.run(host='0.0.0.0', port=5000)
